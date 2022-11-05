@@ -1,0 +1,10 @@
+{
+  "music_test": {
+    "subtitle": "gl18.music_test",
+    "sounds": [ "gl18:disc/music_test" ]
+  },
+  "music_fanghua_shiba": {
+    "subtitle": "gl18.music_fanghua_shiba",
+    "sounds": [ "gl18:disc/music_fanghuashiba" ]
+  }
+}
